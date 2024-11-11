@@ -6,6 +6,7 @@ using System.Collections.Generic;
 namespace Word
 {
     class Program
+
     {
         private static Dictionary<string, int> myDictionary = new Dictionary<string, int>();
 
